@@ -1,7 +1,7 @@
 ### Get A Pet
-* Sistema para ajudar as pessoas com a adoções de animais. 🐈
+* System to help people with animal adoptions. 🐈
 
-### Recursos usados:
+### Resources used:
 * API RESTful 
 * Node.js 
 * Express 
@@ -10,4 +10,4 @@
 * React
 * Axios
 
-Link dos arquivos do curso: <a href = "https://github.com/KaueSena01/curso-nodejs">Node.js Curso</a>
+Course files link: <a href = "https://github.com/KaueSena01/curso-nodejs">Node.js Course</a>
