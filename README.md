@@ -1,8 +1,11 @@
-# Get_A_Pet
+### Get A Pet
+* Sistema para ajudar as pessoas com a adoções de animais. 🐈
 
-Sistema para ajudar as pessoas com a adoções de animais. 🐈
-
-# Recursos usados:
-Construção de uma API RESTful com Node.js, Express, JWT e Mongo.
-React
-Axios
+### Recursos usados:
+* API RESTful 
+* Node.js 
+* Express 
+* JWT  
+* Mongo
+* React
+* Axios
